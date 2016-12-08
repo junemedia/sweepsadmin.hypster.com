@@ -1,0 +1,148 @@
+.main{
+	margin: 0 auto;
+    padding: 15px;
+    width: 980px;
+}
+
+.report_type{
+	
+}
+
+.report_type,.date_range,.filters{
+	margin-bottom: 15px;
+}
+
+.select{
+}
+
+.option{
+}
+
+.report_content{
+}
+
+#winners_report{
+	display:none;
+}
+
+#entries_report{
+	
+}
+
+.date_range{
+	
+}
+
+.label{
+}
+
+.text{
+}
+
+.filters{
+	
+}
+
+.submit{
+}
+
+.button{
+}
+
+/*Result*/
+.top_btn{
+}
+
+.back_btn{
+	float:left;
+}
+
+.function_btn{
+	float:right;
+}
+
+.result_table{
+	margin: 0 auto;
+    text-align: left;
+    width: 91%;
+}
+
+.result_table th{
+}
+
+.result_table tr{
+}
+
+.result_table td{
+}
+
+.result_content{
+	padding: 15px;
+}
+
+.criteria{
+	padding: 10px 0;
+}
+
+.daterange{
+	
+}
+
+.filter_info{
+}
+
+.report_details{
+	clear:both;
+}
+
+.result_title{
+	font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.search{
+	display: block;
+    padding: 20px;
+    width: 960px;
+}
+form.signup{
+    display: inline-block;
+    margin-top: 1em;
+    vertical-align: top;
+    width: 50%;
+}
+fieldset {
+    border: 0 none;
+    line-height: 1.2em;
+    margin: 0 0 1em;
+    padding: 0;
+}
+label.req::after {
+    /*content: "*";*/
+    font-size: smaller;
+    left: -0.5em;
+    position: absolute;
+    top: 0;
+    vertical-align: super;
+}
+fieldset label, fieldset input[type="text"], fieldset input[type="password"] {
+    display: block;
+    width: 100%;
+}
+label {
+    position: relative;
+}
+fieldset label {
+    font-size: 85%;
+    margin: 0.5em 0 0;
+}
+
+input[type="text"], input[type="password"] {
+    font-size: inherit;
+}
+
+.filter_section{
+	float: left;
+    padding: 10px 0;
+}
